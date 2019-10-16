@@ -7,7 +7,7 @@ Sucheta Ravikanti, 160040100
 ## Project Description:
 This is a decentralized contract that when deployed can be used to perform electronic voting. Anyone can deploy this by giving the public keys of the vote bank as an argument migrations file. <br/> <br/>
 Special features include: <br/> 
-1. **Anonymity** and **authencity** of the voter is ensured. This is done by using **Ring Signatures**. 
+1. **Anonymity** and **authencity** of the voter is ensured. This is done by using **Linkable Ring Signatures**. 
 2. **Double Voting** is also checked and such votes are dismissed. This is ensured by the use of a linkable (**I**) in the Ring Signatures. 
 <!-- --> 
 All these features have been tested and deployed here: <br/>
